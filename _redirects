@@ -1,0 +1,9 @@
+# Netlify redirects — Cofy Corner
+# Single-locale legacy paths → FR
+/carte      /fr/carte    301
+/lieu       /fr/lieu     301
+/galerie    /fr/galerie  301
+/contact    /fr/contact  301
+
+# Root → FR (en dernier pour ne pas masquer les règles ci-dessus)
+/           /fr/         301

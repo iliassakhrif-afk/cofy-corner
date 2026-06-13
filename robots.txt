@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.cofycorner.ma
+Sitemap: https://www.cofycorner.ma/sitemap.xml
