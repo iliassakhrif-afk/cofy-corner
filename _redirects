@@ -1,4 +1,4 @@
-# Netlify redirects — Cofy Corner
+# Netlify redirects — Offline Coffee
 # Single-locale legacy paths → FR
 /carte      /fr/carte    301
 /lieu       /fr/lieu     301

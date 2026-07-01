@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://www.cofycorner.ma
-Sitemap: https://www.cofycorner.ma/sitemap.xml
+Host: https://www.offlinecoffee.ma
+Sitemap: https://www.offlinecoffee.ma/sitemap.xml
